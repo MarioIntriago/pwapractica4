@@ -1,15 +1,4 @@
 <?php
-// =============================================
-// CONEXIÓN A MYSQL
-// Local con Laragon/XAMPP:
-// host: localhost
-// usuario: root
-// contraseña: vacía
-// base de datos: 01_calif
-//
-// En InfinityFree debes reemplazar estos datos
-// por los que te da el panel de MySQL.
-// =============================================
 
 $DB_HOST = "localhost";
 $DB_USER = "root";
